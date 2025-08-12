@@ -14,7 +14,6 @@ I’m a hands-on embedded hardware enthusiast who builds real-time systems with 
 ---
 
 ## 🛠️ Skills & Tools
-
 - **Embedded Platforms**: ESP32, Arduino Uno, ATmega32P
 - **Circuit Design & Simulation**: Proteus, Multisim
 - **PCB Design & Fabrication**
@@ -26,7 +25,6 @@ I’m a hands-on embedded hardware enthusiast who builds real-time systems with 
 ---
 
 ## 🔬 Major Projects
-
 ### 🔐 Smart Vehicle Ignition & Tracking System
 > Biometric + GPS + GSM based secure control system with fingerprint ignition, real-time SMS alerts, and location tracking.
 
@@ -55,9 +53,9 @@ I’m a hands-on embedded hardware enthusiast who builds real-time systems with 
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com) *(Add your link here)*
+- [LinkedIn](https://www.linkedin.com) *(Add your actual LinkedIn link)*
 - [Portfolio Website](https://kajenthira-s.github.io)
-- Email: *(Add your email here if public)*
+- [Email Me](mailto:kajenthiras11@gmail.com)
 
 ---
 
