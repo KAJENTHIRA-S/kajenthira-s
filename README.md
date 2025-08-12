@@ -53,7 +53,7 @@ I’m a hands-on embedded hardware enthusiast who builds real-time systems with 
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com) *(Add your actual LinkedIn link)*
+- [LinkedIn](https://www.linkedin.com) 
 - [Portfolio Website](https://kajenthira-s.github.io)
 - [Email Me](mailto:kajenthiras11@gmail.com)
 
